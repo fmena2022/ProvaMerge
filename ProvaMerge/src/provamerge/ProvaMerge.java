@@ -9,6 +9,9 @@ public class ProvaMerge {
         System.out.println("Prova C");
         
         System.out.println("Prova F");
+        
+        System.out.println("Prova D");
+        System.out.println("Prova E");
     }
     
 }
